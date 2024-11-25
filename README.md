@@ -1,5 +1,9 @@
 # Postgrestex
 
+## Maintenance mode
+
+This repository is moving into maintenance mode. Please use the new [Postgrest-ex](https://github.com/supabase-community/postgrest-ex) library. We will archive the hex.pm library as well. Thank you for your usage over the past few years.
+
 **Status: POC**
 
 Elixir Postgrestex library for Postgrest. The design mirrors that of [postgrest-py](https://github.com/supabase/postgrest-py)
